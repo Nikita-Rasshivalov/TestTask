@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Nikita",
+    "Surname": "Rasshivalov",
+    "Address": {
+      "Country": "Beralus",
+      "City": "Mogilev",
+      "Streer": "Mira 25"
+    },
+    "Age": "21"
+  },
+  {
+    "Name": "Vlad",
+    "Surname": "Egorov",
+    "Address": {
+      "Country": "Beralus",
+      "City": "Minsk",
+      "Streer": "Octabry 225"
+    },
+    "Age": "26"
+  }
+]
